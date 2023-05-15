@@ -1,7 +1,5 @@
 // Crea una función sum que reciba un arreglo de números y retorne la suma de todos los elementos:
 
-// escribe la función sum acá
-
 function sum(array){
     let suma = 0;
     for(let value of array){
